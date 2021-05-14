@@ -581,7 +581,7 @@ p {
 
 @media screen and (max-width: 479px) {
   .header__link {
-    padding-left: 0px;
+    margin-left: 0px;
     font-size: 40px;
     font-weight: 700;
     text-align: center;
